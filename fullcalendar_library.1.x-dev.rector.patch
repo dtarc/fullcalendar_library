@@ -1,0 +1,12 @@
+diff --git a/fullcalendar_library.info.yml b/fullcalendar_library.info.yml
+index 7fe03b2..d37979d 100644
+--- a/fullcalendar_library.info.yml
++++ b/fullcalendar_library.info.yml
+@@ -1,6 +1,5 @@
+ name: Fullcalendar library
+ type: module
+ description: Fullcalendar library
+-core: 8.x
+-core_version_requirement: ^8 || ^9
++core_version_requirement: ^8 || ^9 || ^10
+ package: Fullcalendar
